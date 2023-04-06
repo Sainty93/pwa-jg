@@ -13,13 +13,13 @@
 8. [Sample](#sample)
 
 ## Project Description
-* This application will load a file where you can write text.
+* This is a text editor single page.
 
 ## Instalation Instructions
-* To use this app you must install node and npm inquirer package.
+* you must install node and npm before previewing
 
 ## How to contribute
-* Please access the repo on github to contribute
+* https://github.com/Sainty93/pwa-jg
 
 ## Testing
 * Please test with terminal
